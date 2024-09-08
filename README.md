@@ -1,10 +1,10 @@
 # aiagents
-AI Agents Hackathon 2024
-Here is a list of references that we can look into:
-suno.com
-beatoven.ai
-soundful.ai
-mynoise.net
+# AI Agents Hackathon 2024
+# Here is a list of references that we can look into:
+# suno.com
+# beatoven.ai
+# soundful.ai
+# mynoise.net
 
 We are trying to create a mood music generator, that not only generates music from text, images and videos etc
 It also acts a source of therapy, hence we are making therapy clones for assisting users with therapy and different forms of therapy like music therapy, mood therapy, Cognitive Behavioral Therapy (CBT), Rational Emotive Behavioral Therapy (REBT), Emotional Freedom Techniques (EFT) 
