@@ -6,7 +6,7 @@
 # soundful.ai
 # mynoise.net
 
-We are trying to create a mood music generator, that not only generates music from text, images and videos etc
+<br/>We are trying to create a mood music generator, that not only generates music from text, images and videos etc
 It also acts a source of therapy, hence we are making therapy clones for assisting users with therapy and different forms of therapy like music therapy, mood therapy, Cognitive Behavioral Therapy (CBT), Rational Emotive Behavioral Therapy (REBT), Emotional Freedom Techniques (EFT) 
 We can't replicate or duplicate therapists and their actual jobs or behaviors, neither AI or AGI or any SuperAGI can reach that level of accuracy where it can replace humans and therapists totally
 But what we can do is - take some preliminary learnings, insights and extract information, train and test accordingly, we can help humans with therapy just like music, dance and arts does! We can help them understand their moods, feelings and emotions - even their behaviours, trauma, tragedy to some levels of accuracy.
